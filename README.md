@@ -8,7 +8,7 @@ Computer Organization and Assembly Language project.
 
 ## Technologies
 - Assembly Language
-- Irvine32 (if used)
+- Irvine32
 - Visual Studio
 
 ## Author
