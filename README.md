@@ -1,15 +1,29 @@
-# COAL Project
+# Assembly Matrix Operations
 
-Computer Organization and Assembly Language project.
+A menu-driven Matrix Operations System developed in x86 Assembly Language using the Irvine32 library.
 
-## Contents
-- Assembly source code
-- Project report
+## Features
 
-## Technologies
-- Assembly Language
-- Irvine32
+- Matrix Addition
+- Matrix Subtraction
+- Matrix Multiplication
+- Matrix Input and Display
+- Interactive Menu Interface
+- Colored Console Display
+
+## Technologies Used
+
+- x86 Assembly Language
+- MASM
+- Irvine32 Library
 - Visual Studio
 
+## How to Run
+
+1. Open the project in Visual Studio.
+2. Configure Irvine32 library.
+3. Build and run the program.
+
 ## Author
+
 Maleeha Naqvi
