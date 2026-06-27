@@ -24,6 +24,12 @@ A menu-driven Matrix Operations System developed in x86 Assembly Language using 
 2. Configure Irvine32 library.
 3. Build and run the program.
 
+## Team Members
+
+- Syeda Maleeha Bano Naqvi
+- Aqsa Riaz
+- Laiba Tauseef
+
 ## Author
 
 Maleeha Naqvi
